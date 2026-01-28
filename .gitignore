@@ -1,0 +1,16 @@
+# Java / Maven
+route-optimizer/target/
+*.class
+*.jar
+
+# Node
+route-optimizer-ui/node_modules/
+route-optimizer-ui/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
